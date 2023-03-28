@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+* { /* codigo global */
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to right, #C9EBF2, #0B2624);
+}
+
+header{
+    background-color:black;
+}
+
+
+main{
+    box-sizing: border-box;
+    padding: auto;
+}
+main.h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
